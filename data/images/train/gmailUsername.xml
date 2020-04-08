@@ -1,0 +1,38 @@
+<annotation>
+  <folder>train</folder>
+  <filename>gmailUsername</filename>
+  <path>C:\Users\vhudke\Desktop\Login Page Screenshots\data\images\train\gmailUsername.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>749</width>
+    <height>797</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>textbox</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>87</xmin>
+      <ymin>292</ymin>
+      <xmax>663</xmax>
+      <ymax>399</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>button</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>512</xmin>
+      <ymin>605</ymin>
+      <xmax>658</xmax>
+      <ymax>669</ymax>
+    </bndbox>
+  </object>
+</annotation>
